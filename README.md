@@ -46,42 +46,56 @@ Divs with Classes: The content is organized using <div> elements with specific c
 Navigation Bar (.navbar): This is a navigation menu that includes a logo, an unordered list (<ul>), and a select element (<select>). It also includes some icons from the Material Icons library.
 
 
+
 Section (.home): This section contains a series of images and text blocks, presumably for showcasing products or announcements.
+
 
 
 Footer (.footer): This is the footer section that typically contains links or logos. It includes images that link to various press sources.
 
 
+
 Additional Sections: There are several other sections like .sec_page, .main, .main2, .main3, .electric_scooters, and more, each with its own content and purpose.
+
 
 
 Images (<img>): Images are included throughout the page using the <img> element. Each image has an alt attribute for accessibility.
 
 
+
 Text Elements (<h1>, <h3>, <p>, etc.): These elements are used to structure and format the textual content on the page.
+
 
 
 Buttons (<button>) and Links (<a>): These are interactive elements that users can click on.
 
 
+
 Iframe: An iframe element embeds a YouTube video.
+
 
 
 Unordered Lists (<ul>) and List Items (<li>): These elements are used to create lists, such as the navigation menu and product lists.
 
 
+
 Forms: There's a form at the end of the document for users to subscribe to a newsletter. It includes input fields and a submit button.
+
 
 
 Comments (<!-- ... -->): These are HTML comments that provide explanations for some parts of the code.
 
 
+
 Footer: The footer section contains additional information about the website and its address.
+
 
 
 Copyright Notice: At the very bottom, there's a copyright notice with the year and creator information.
 
+
 CSS
+
 
 ![Screenshot 2023-08-28 224528](https://github.com/rupesh0511/weeklytest_6/assets/69234169/53e28531-08c7-4728-8971-83bd6b375309)
 ![Screenshot 2023-08-28 224535](https://github.com/rupesh0511/weeklytest_6/assets/69234169/a366b844-e223-468d-b229-12c93834132a)
