@@ -101,6 +101,91 @@ CSS
 ![Screenshot 2023-08-28 224647](https://github.com/rupesh0511/weeklytest_6/assets/69234169/80c4dad6-8a1f-4188-95e5-d18311a63a72)
 ![Screenshot 2023-08-28 224653](https://github.com/rupesh0511/weeklytest_6/assets/69234169/99a45313-2ca4-434d-80ac-763b9f45c5ab)
 ![Screenshot 2023-08-28 224700](https://github.com/rupesh0511/weeklytest_6/assets/69234169/126f27c9-1574-46de-a089-d0d61ae7e30f)
+
+* {...}: This is a CSS wildcard selector that applies the following styles to all elements on the page. It's used here to reset default margin, padding, and box-sizing for all elements.
+
+
+.container {...}: This selector targets an element with the class "container" and sets its width and height. In this case, the container takes the full width of its parent and has a height of 1300 viewport heights (vh). There's also some commented-out code for borders.
+
+
+.navbar {...}: This selector styles a navigation bar. It sets its width, height, and applies various styles like making it sticky at the top of the page (position: sticky) and giving it a background color and box shadow.
+
+
+.logo {...}: Styles for the logo element within the navbar, including padding and potentially a border (commented out).
+
+
+.logo img {...}: Styles for the logo image within the logo element. It sets the width and height of the image.
+
+
+.navbar ul {...}: Styles for an unordered list within the navbar. It applies styles like flex display and negative margin to create a horizontal list.
+
+
+.navbar li {...}: Styles for list items within the navbar, making them look like navigation links and setting a cursor pointer.
+
+
+.home .img-box {...}: Styles for a section with the class "img-box" within the "home" section. It uses flex properties to arrange child elements.
+
+
+.home .img-box .img-items {...}: Styles for elements with the class "img-items" within the "img-box" section. This part is setting up a grid-like layout with images and text.
+
+
+.home .img-box .img-items img {...}: Styles for images within the "img-items" class, setting their size and transition effects.
+
+
+.home .img-box .img-items .img-box1:hover {...}: This targets a specific element with the class "img-box1" when it's hovered over, causing it to scale up slightly.
+
+
+.footer {...}: Styles for the footer section, including width, height, and background color.
+
+
+.footer img {...}: Styles for images within the footer.
+
+
+.sec_page {...}, .sec_txt {...}, .sec_txt span {...}: Styles for a section and its text content, including alignment and colors.
+
+
+.main {...}, .boosted_img {...}, .boosted_img img {...}, .boosted_txt {...}, .boosted_txt button {...}: Styles for various sections, images, and buttons.
+
+
+.main2 {...}, .minimotors_txt {...}, .minimotors_txt button {...}, .minimotors_img {...}, .minimotors_img img {...}: More styles for different sections, text, buttons, and images.
+
+
+.main3 {...}, .gt_collection {...}, .gt_collection img {...}, .gt_collection_txt {...}, .gt_collection_txt button {...}: Styles for yet another set of sections, images, text, and buttons.
+
+
+.electric_scooters {...}, .electric_scooters_txt {...}, .electric_scooters_txt button {...}: Styles for a section with background images, text, and buttons.
+
+
+iframe {...}: Styles for iframes, which are used to embed content like videos.
+
+
+.Terrain_img {...}, .Terrain_txt {...}, .Terrain_txt button {...}: Styles for sections with background images, text, and buttons.
+
+
+.card_txt {...}, .card_txt .border {...}: Styles for text and a decorative line.
+
+
+.tent {...}, .tent .list1 {...}, .tent .list1 li {...}, .tent .list1 li img {...}: Styles for a horizontally scrolling list with images.
+
+
+.tent2 {...}, .tent2 .list2 {...}, .tent2 .list2 li {...}, .tent2 .list2 li img {...}: Similar styles for another horizontally scrolling list.
+
+
+.form {...}, .form_input {...}, .form_input h4 span {...}, .form_input input {...}, .form_input button {...}, .form_img {...}, .form_img img {...}: Styles for a form with input fields and buttons.
+
+
+.ideas {...}, .go-fast img {...}, .go-fast h1 {...}, .go-fast p {...}: Styles for a section with background images and text.
+
+
+footer {...}, .footer-image {...}, .footer-image img {...}, .footer-list {...}, .footer-list ul {...}, .footer-list ul li {...}: Styles for the website's footer, including images and lists.
+
+
+.about p {...}: Styles for paragraphs within the "about" section.
+
+
+.last-content {...}, .last-content span {...}: Styles for the last content section, including a clickable span.
+
+
 ![Screenshot 2023-08-28 224725](https://github.com/rupesh0511/weeklytest_6/assets/69234169/8bd90640-0f3f-42b0-8af2-d5c072ece214)
 ![Screenshot 2023-08-28 224741](https://github.com/rupesh0511/weeklytest_6/assets/69234169/b4c2fcbc-dad9-44eb-b6c3-3c38ad8a392a)
 ![Screenshot 2023-08-28 224754](https://github.com/rupesh0511/weeklytest_6/assets/69234169/f61303c2-87e5-4274-a4ca-1e2cec7e9965)
